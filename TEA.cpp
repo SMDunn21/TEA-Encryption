@@ -1,3 +1,13 @@
+/*
+Author: Sean Dunn
+Date: 2/24/2025
+
+This is a program to perform the TEA encryption and decryption algorithm
+
+*/
+
+
+
 #include <cstdint>
 
 using namespace std;
